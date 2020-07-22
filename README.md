@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭  **Machine Learning Engineer** @ AI Samurai Japan Co. Ltd., a Japan-based **Artificial Intelligence R&D** company, located in Bangladesh. 
-🔭  Currently working on Computer Vision and Natural Language Processing.
-🔭  Work interest includes Artificial Intelligence*, Server-Side Scripting, and Information Security. 
+🔭  **Machine Learning Engineer** @ AI Samurai Japan Co. Ltd., a Japan-based **Artificial Intelligence R&D** company, located in Bangladesh. </br>
+🔭  Currently working on Computer Vision and Natural Language Processing. </br>
+🔭  Work interest includes Artificial Intelligence*, Server-Side Scripting, and Information Security. </br>
 
 
 
