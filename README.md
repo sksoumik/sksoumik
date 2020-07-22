@@ -3,9 +3,7 @@
 :black_square_button:   Currently working on Computer Vision and Natural Language Processing. </br>
 :black_square_button:  Work interest includes Artificial Intelligence*, Server-Side Scripting, and Information Security. </br>
 
-</br>
-
-##### few tools that I use most 
+#### Few tools that I use most 
 <table>
   <tbody>
     <tr valign="top">
@@ -65,9 +63,7 @@
   </tbody>
 </table>
 
-</br>
-
-##### connect with me
+#### Connect with me
 
 <a href="https://www.linkedin.com/in/sksoumik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%40sksoumik-blue" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/sadmanks" target="_blank"><img src="https://img.shields.io/badge/facebook-%40sadmanks-9cf" alt="Facebook"></a>
