@@ -1,10 +1,71 @@
-### Hi there 👋
 
 🔭  **Machine Learning Engineer** @ AI Samurai Japan Co. Ltd., a Japan-based **Artificial Intelligence R&D** company, located in Bangladesh. </br>
 🔭  Currently working on Computer Vision and Natural Language Processing. </br>
 🔭  Work interest includes Artificial Intelligence*, Server-Side Scripting, and Information Security. </br>
 
+</br>
 
+##### few tools that I use most 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>pytorch</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>tensorflow</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>opencv</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>django</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>flask</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GCP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>postgresql</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>linux</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-mint.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
 
 ##### connect with me
 
@@ -15,6 +76,3 @@
 <a href="https://sksoumik.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-%40sksoumik-orange" alt="blogspot"></a>
 </br>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=sadmanks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-sadmanks%40gmail.com-important" alt="Email"></a>
-
-
-
