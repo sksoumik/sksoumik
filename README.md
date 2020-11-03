@@ -38,6 +38,10 @@
       </td>
     </tr>
     <tr valign="top">
+      <td width="14%" align="center">
+        <span>flutter</span><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
         <td width="14%" align="center">
         <span>git</span><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -45,6 +49,10 @@
       <td width="14%" align="center">
         <span>django</span><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+      <td width="14%" align="center">
+        <span>postgresql</span><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="14%" align="center">
         <span>flask</span><br><br><br>
@@ -55,16 +63,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
       </td>
       <td width="14%" align="center">
-        <span>postgresql</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="14%" align="center">
         <span>linux</span><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/linux-mint.svg">
-      </td>
-      <td width="14%" align="center">
-        <span>flutter</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
     </tr>
   </tbody>
