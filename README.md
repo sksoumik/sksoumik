@@ -1,5 +1,5 @@
 
-:black_square_button:   **Machine Learning Engineer** @ AI Samurai Japan Co. Ltd., a Japan-based **Artificial Intelligence R&D** company, located in Bangladesh. </br>
+:black_square_button:   **Machine Learning Engineer** @ AI Samurai Japan Co. Ltd (subsidiary company of Chowa Giken Corporation)., a Japan-based **Artificial Intelligence R&D** company, located in Bangladesh. </br>
 :black_square_button:   Currently working on Computer Vision and Natural Language Processing. </br>
 :black_square_button:  Work interest includes Artificial Intelligence*, Server-Side Scripting, and Information Security. </br>
 
