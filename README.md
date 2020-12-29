@@ -8,63 +8,63 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>python</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="14%" align="center">
         <span>java</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>dart</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/dart.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>javascript</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>pytorch</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>tensorflow</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>opencv</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/opencv.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/opencv.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>flutter</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
-        <td width="14%" align="center">
+        <td width="10%" align="center">
         <span>git</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>django</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/django.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>postgresql</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>flask</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/flask.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>GCP</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
       </td>
-      <td width="14%" align="center">
+      <td width="10%" align="center">
         <span>linux</span><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/linux-mint.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/linux-mint.svg">
       </td>
     </tr>
   </tbody>
