@@ -60,7 +60,7 @@
       </td>
       <td width="10%" align="center">
         <span>GCP</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/google-cloud-platform.svg">
+        <img height="20px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
         <span>linux</span><br><br>
