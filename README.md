@@ -64,7 +64,7 @@
       </td>
       <td width="10%" align="center">
         <span>linux</span><br><br>
-        <img height="20px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png">
+        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
       </td>
     </tr>
   </tbody>
