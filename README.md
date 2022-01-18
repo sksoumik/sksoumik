@@ -78,5 +78,6 @@
 <a href="https://sksoumik.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-sksoumik-success" alt="portfolio"></a>
 <a href="https://www.hackerrank.com/sadmanks" target="_blank"><img src="https://img.shields.io/badge/HackeRank-sadmanks-success" alt="HackerRank"></a>
 <a href="https://sksoumik.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-%40sksoumik-orange" alt="blogspot"></a>
+
 </br>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=sadmanks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-sadmanks%40gmail.com-important" alt="Email"></a>
