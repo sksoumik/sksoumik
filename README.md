@@ -80,4 +80,4 @@
 <a href="https://sksoumik.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-%40sksoumik-orange" alt="blogspot"></a>
 
 </br>
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=sadmanks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-sadmanks%40gmail.com-important" alt="Email"></a>
+Email: sadmanks@gmail.com
