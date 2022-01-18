@@ -80,4 +80,3 @@
 <a href="https://sksoumik.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-%40sksoumik-orange" alt="blogspot"></a>
 
 </br>
-Email: sadmanks@gmail.com
