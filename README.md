@@ -21,8 +21,8 @@
         <img height="20px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
       <td width="8%" align="center">
-        <span>javascript</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>shell</span><br><br>
+        <img height="20px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg">
       </td>
       <td width="8%" align="center">
         <span>pytorch</span><br><br>
