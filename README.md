@@ -1,5 +1,5 @@
 
-:black_square_button:   **AI Engineer(NLP)** @ Venturas Ltd. </br>
+:black_square_button:   **AI Engineer** @ Venturas Ltd. </br>
 :black_square_button:   Currently working on Natural Language Processing. </br>
 :black_square_button:  Work interest includes Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure, and Backend Engineering </br>
 
