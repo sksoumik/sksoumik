@@ -1,7 +1,7 @@
 
 :black_square_button:   **AI Engineer(NLP)** @ Venturas Ltd. </br>
 :black_square_button:   Currently working on Natural Language Processing. </br>
-:black_square_button:  Work interest includes Artificial Intelligence (ML/DL), Automation and Cloud Infrastructure.</br>
+:black_square_button:  Work interest includes Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure, and Backend Engineering </br>
 
 #### Few tools that I use most 
 
