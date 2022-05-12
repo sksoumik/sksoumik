@@ -80,10 +80,9 @@
 
 #### Contribution streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sksoumik&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sksoumik&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sksoumik&count_private=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sksoumik&count_private=true&theme=graywhite)
 
 
 #### Connect with me
