@@ -2,81 +2,26 @@
 :black_square_button:   **AI Engineer** @ Venturas Ltd. </br>
 :black_square_button:   Currently working on Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure, and Back-End Engineering.</br>
 
+#### Preferable tech stack: 
 
-#### Few tools that I use most 
+```yaml
+    Language: python, dart, bash
+    Deep Learning: tensorflow/keras (for production), pytorch (for R&D)
+    data analysis/preprocessing: pandas, scikit-learn, nltk, opencv
+    data visualisation: matplotlib, seaborn
+    Web Dev: django
+    API Dev: django REST framework (DRF)
+    ML/DL MVP: streamlit
+    Mobile App: flutter
+    Cloud: google cloud platform(GCP)
+    OS: linux (ubuntu)
+    Relational DB: postgresql
+    Data Warehouse: bigquery
+    Automation: python, bash
+```
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>python</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>java</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>dart</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/dart.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>shell</span><br><br>
-        <img height="20px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>pytorch</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/pytorch.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>tensorflow</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>opencv</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/opencv.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>pandas</span><br><br>
-        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png">
-      </td>  
-    </tr>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <span>flutter</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/flutter.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>postgres</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>django</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>flask</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/flask.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>git</span><br><br>
-        <img height="20px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="8%" align="center">
-        <span>GCP</span><br><br>
-        <img height="20px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png">
-      </td>
-      <td width="8%" align="center">
-        <span>linux</span><br><br>
-        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
-      </td>
-      <td width="8%" align="center">
-        <span>sklearn</span><br><br>
-        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+
 
 #### Contribution streak
 
