@@ -7,8 +7,8 @@
 ```yaml
     Language: python, dart, bash
     Deep Learning: tensorflow/keras (for production), pytorch (for R&D)
-    data analysis/preprocessing: pandas, scikit-learn, nltk, opencv
-    data visualisation: matplotlib, seaborn
+    Data analysis/preprocessing: pandas, scikit-learn, nltk, opencv
+    Data visualisation: matplotlib, seaborn
     Web Dev: django
     API Dev: django REST framework (DRF)
     ML/DL MVP: streamlit
@@ -16,7 +16,7 @@
     Cloud: google cloud platform(GCP)
     OS: linux (ubuntu)
     Relational DB: postgresql
-    Data Warehouse: bigquery
+    Data warehouse: bigquery
     Automation: python, bash
     Web scraping: beautifulsoup
 ```
