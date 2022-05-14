@@ -5,20 +5,42 @@
 #### Preferable tech stack: 
 
 ```yaml
-    Language: python, dart, bash
-    Deep Learning: tensorflow/keras (for production), pytorch (for R&D)
-    Data analysis/preprocessing: pandas, scikit-learn, nltk, opencv
-    Data visualisation: matplotlib, seaborn
-    Web Dev: django
-    API Dev: django REST framework (DRF)
-    ML/DL MVP: streamlit
-    Mobile App: flutter
-    Cloud: google cloud platform(GCP)
-    OS: linux (ubuntu)
-    Relational DB: postgresql
-    Data warehouse: bigquery
-    Automation: python, bash
-    Web scraping: beautifulsoup
+    Language: 
+        - python
+        - dart
+        - bash
+    Deep Learning: 
+        - tensorflow/keras (for production)
+        - pytorch (for R&D)
+    Data analysis/preprocessing: 
+        - pandas
+        - scikit-learn
+        - nltk
+        - opencv
+    Data visualisation: 
+        - matplotlib
+        - seaborn
+    Web Dev: 
+        - django
+    API Dev: 
+        - django REST framework (DRF)
+    ML/DL MVP: 
+        - streamlit
+    Mobile App: 
+        - flutter
+    Cloud: 
+        - google cloud platform (GCP)
+    OS: 
+        - linux (ubuntu)
+    Relational DB: 
+        - postgresql
+    Data warehouse: 
+        - bigquery
+    Automation: 
+        - python
+        - bash
+    Web scraping: 
+        - beautifulsoup
 ```
 
 
