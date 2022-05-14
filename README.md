@@ -18,6 +18,7 @@
     Relational DB: postgresql
     Data Warehouse: bigquery
     Automation: python, bash
+    Web scraping: beautifulsoup
 ```
 
 
