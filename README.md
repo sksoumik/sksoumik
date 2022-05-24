@@ -2,47 +2,36 @@
 :black_square_button:   **AI Engineer** @ Venturas Ltd. </br>
 :black_square_button:   Currently working on Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure, and Back-End Engineering.</br>
 
-#### Preferable tech stack: 
+#### Tech stack: 
 
 ```yaml
     Language: 
-        - python
-        - dart
-        - bash
+        - python, dart, java, bash
+        
     Deep Learning: 
-        - tensorflow/keras (for production)
-        - pytorch (for R&D)
+        - tensorflow/keras (for production), pytorch (for R&D)
+        
     Data analysis/preprocessing: 
-        - pandas
-        - scikit-learn
-        - nltk
-        - opencv
+        - pandas, scikit-learn,opencv, nltk, numpy, PIL
+        
     Data visualisation: 
-        - matplotlib
-        - seaborn
-    Web Dev: 
-        - django
-    API Dev: 
-        - django REST framework (DRF)
-    ML/DL MVP: 
-        - streamlit
-    Mobile App: 
-        - flutter
+        - matplotlib, seaborn
+        
+    Web/Mobile app & API Dev: 
+        - django, flask, streamlit, django REST framework (DRF), flutter
+        
     Cloud: 
-        - google cloud platform (GCP)
-    OS: 
-        - linux (ubuntu)
-    Relational DB: 
-        - postgresql
-    Data warehouse: 
-        - bigquery
+        - google cloud platform (compute engine, bigquery, cloud storage, ai platform, pub/sub, app engine, kubernetes engine)
+    
+    Database/Warehouse: 
+        - postgresql, mysql, bigquery, firebase
+    
     Automation: 
-        - python
-        - bash
-    Web scraping: 
-        - beautifulsoup
+        - python, bash, linux
+        
+    Miscellaneous: 
+        - docker, beautifulsoup, mlflow, celery, g-suite. 
 ```
-
 
 
 
