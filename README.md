@@ -6,26 +6,33 @@
 
 ```yaml
 Language: 
-    - python, java, bash
+    - python, java, bash, dart
+
 Deep Learning: 
     - tensorflow/keras (for production), 
     - pytorch (for R&D)
+
 Data analysis/preprocessing: 
     - pandas, opencv, scikit-learn, numpy
+
 Data visualisation: 
     - matplotlib, seaborn
+
 Web/Mobile app & API Dev: 
-    - django, flask, streamlit, django REST framework (DRF)
+    - django, flask, streamlit, django REST framework (DRF), flutter
+
 Cloud: 
     - google cloud platform (compute engine, bigquery, cloud storage, ai platform, pub/sub, app engine)
+
 Database/Warehouse: 
     - postgresql, bigquery, firebase
+
 Automation: 
     - python, bash
+
 Miscellaneous: 
     - docker, beautifulsoup, mlflow, celery
 ```
-
 
 
 #### Contribution streak
