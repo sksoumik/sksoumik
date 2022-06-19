@@ -21,7 +21,8 @@ Web/Mobile app & API Dev:
     - django, flask, streamlit, django REST framework (DRF), flutter
 
 Cloud: 
-    - google cloud platform (compute engine, bigquery, cloud storage, ai platform, pub/sub, app engine)
+    - google cloud platform 
+      (compute engine, bigquery, cloud storage, ai platform, pub/sub, app engine)
 
 Database/Warehouse: 
     - postgresql, bigquery, firebase
