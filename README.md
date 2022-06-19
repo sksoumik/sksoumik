@@ -28,7 +28,7 @@ Database/Warehouse:
     - postgresql, bigquery, firebase
 
 Automation: 
-    - python, bash
+    - python, bash, linux
 
 Miscellaneous: 
     - docker, beautifulsoup, mlflow, celery
