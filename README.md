@@ -9,8 +9,7 @@ Language:
     - python, java, bash, dart
 
 Deep Learning: 
-    - tensorflow/keras (for production), 
-    - pytorch (for R&D)
+    - tensorflow/keras, pytorch, detectron2
 
 Data analysis/preprocessing: 
     - pandas, opencv, scikit-learn, numpy
