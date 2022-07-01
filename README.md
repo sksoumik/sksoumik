@@ -6,32 +6,29 @@
 
 ```yaml
 Language: 
-    - python, java, bash, dart
+    - Python, Java, Bash, Dart, SQL
 
 Deep Learning: 
-    - tensorflow/keras, pytorch, detectron2
-
-Data analysis/preprocessing: 
-    - pandas, opencv, scikit-learn, numpy
-
-Data visualisation: 
-    - matplotlib, seaborn
-
-Web/Mobile app & API Dev: 
-    - django, flask, streamlit, django REST framework (DRF), flutter
+    - TensorFlow/Keras, PyTorch, Detectron2
 
 Cloud: 
-    - google cloud platform 
-      (compute engine, bigquery, cloud storage, ai platform, pub/sub, app engine)
+    - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
+    - AWS (SageMaker, EC2, S3, Lambda)
+
+Web/Mobile app & API Dev: 
+    - Django, Flask, Streamlit, Django REST Framework (DRF), Flutter
+
+Data preprocessing & visualisation: 
+    - Pandas, OpenCV, scikit-learn, Numpy, Matplotlib, Seaborn
 
 Database/Warehouse: 
-    - postgresql, bigquery, firebase
+    - Postgresql, BigQuery, Firebase
 
 Automation: 
-    - python, bash, linux
+    - Python, Bash, Linux
 
 Miscellaneous: 
-    - docker, beautifulsoup, mlflow, celery
+    - Docker, Beautifulsoup, Mlflow, Celery, Multiprocessing, Ray
 ```
 
 
