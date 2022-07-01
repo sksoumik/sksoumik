@@ -8,8 +8,8 @@
 Language: 
     - Python, Java, Bash, Dart, SQL
 
-Deep Learning: 
-    - TensorFlow/Keras, PyTorch, Detectron2
+Machine Learning: 
+    - TensorFlow/Keras, PyTorch, Detectron2, XGBoost, scikit-learn
 
 Cloud: 
     - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
@@ -19,7 +19,7 @@ Web/Mobile app & API Dev:
     - Django, Flask, Streamlit, Django REST Framework (DRF), Flutter
 
 Data preprocessing & visualisation: 
-    - Pandas, OpenCV, scikit-learn, Numpy, Matplotlib, Seaborn
+    - Pandas, OpenCV, Numpy, Matplotlib, Seaborn
 
 Database/Warehouse: 
     - Postgresql, BigQuery, Firebase
