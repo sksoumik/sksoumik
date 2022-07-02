@@ -15,7 +15,7 @@ Cloud:
     - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
     - AWS (SageMaker, EC2, S3, Lambda)
 
-Web/Mobile app & API Dev: 
+App & API Dev: 
     - Django, Flask, Streamlit, Django REST Framework (DRF)
 
 Data preprocessing & visualisation: 
