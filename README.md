@@ -6,7 +6,7 @@
 
 ```yaml
 Language: 
-    - Python, Java, Bash, Dart, SQL
+    - Python, Java, Bash, SQL
 
 Machine Learning: 
     - TensorFlow/Keras, PyTorch, Detectron2, XGBoost, scikit-learn
@@ -16,7 +16,7 @@ Cloud:
     - AWS (SageMaker, EC2, S3, Lambda)
 
 Web/Mobile app & API Dev: 
-    - Django, Flask, Streamlit, Django REST Framework (DRF), Flutter
+    - Django, Flask, Streamlit, Django REST Framework (DRF)
 
 Data preprocessing & visualisation: 
     - Pandas, OpenCV, Numpy, Matplotlib, Seaborn
