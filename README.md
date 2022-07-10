@@ -6,20 +6,20 @@
 
 ```yaml
 Language: 
-    - Python, Java, Bash, SQL
+    - Python, JavaScript, Java, Bash, SQL
 
 Machine Learning: 
-    - TensorFlow/Keras, PyTorch, Detectron2, XGBoost, scikit-learn
+    - TensorFlow/Keras, PyTorch, Detectron2, Apache Spark/PySpark, XGBoost, scikit-learn
 
 Cloud: 
     - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
     - AWS (SageMaker, EC2, S3, Lambda)
 
 App & API Dev: 
-    - Django, Flask, Streamlit, Django REST Framework (DRF)
+    - Django, Flask, Streamlit, Django REST Framework (DRF), React, Next.js 
 
-Data preprocessing & visualisation: 
-    - Pandas, OpenCV, Numpy, Matplotlib, Seaborn
+Data processing & visualisation: 
+    - Spark/PySpark, Pandas, OpenCV, Numpy, Matplotlib, Seaborn
 
 Database/Warehouse: 
     - Postgresql, BigQuery, Firebase
