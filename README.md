@@ -1,7 +1,6 @@
 
-:star:   **AI Engineer** @ Venturas Ltd. </br>
-:star:   Currently working on Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure. </br>
-:star:   Occasionally, I work on Back-End and Front-End development. </br>
+:coffee:   **AI Engineer** @ Venturas Ltd. | Working on AI/ML, Automation, Cloud Infrastructure. </br>
+:coffee:   Occasionally, I also work on Back-End and Front-End Engineering for my personal/pet projects. </br>
 
 #### Tech stack: 
 
