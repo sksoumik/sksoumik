@@ -1,6 +1,7 @@
 
-:computer:   **AI Engineer** @ Venturas Ltd. </br>
-:computer:   Currently working on Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure, and Back-End Engineering.</br>
+:star:   **AI Engineer** @ Venturas Ltd. </br>
+:star:   Currently working on Artificial Intelligence (ML/DL), Automation, Cloud Infrastructure. </br>
+:star:   Occasionally, I work on Back-End and Front-End development. </br>
 
 #### Tech stack: 
 
@@ -15,8 +16,11 @@ Cloud:
     - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
     - AWS (SageMaker, EC2, S3, Lambda)
 
-App & API Dev: 
-    - Django, Flask, Streamlit, Django REST Framework (DRF), React, Next.js 
+Back-End: 
+    - Django, Django REST Framework (DRF), Flask
+   
+Front-End:
+    - React, Next.js, Bootstrap, HTML5, CSS3
 
 Data processing & visualisation: 
     - Spark/PySpark, Pandas, OpenCV, Numpy, Matplotlib, Seaborn
@@ -28,7 +32,7 @@ Automation:
     - Python, Bash, Linux
 
 Miscellaneous: 
-    - Docker, Beautifulsoup, Mlflow, Celery, Multiprocessing, Ray
+    - Git, Docker, Linux, Multiprocessing, Ray, BeautifulSoup, Streamlit, WebRTC, Celery
 ```
 
 
