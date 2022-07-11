@@ -31,7 +31,7 @@ Automation:
     - Python, Bash, Linux
 
 Miscellaneous: 
-    - Git, Docker, Linux, Multiprocessing, Ray, BeautifulSoup, Streamlit, WebRTC, Celery
+    - Git, Docker, Linux, Multiprocessing, Ray, BeautifulSoup, Streamlit, WebRTC, Celery, Elasticsearch
 ```
 
 
