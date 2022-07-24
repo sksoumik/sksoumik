@@ -35,13 +35,6 @@ Miscellaneous:
 ```
 
 
-#### Contribution streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sksoumik&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sksoumik&count_private=true&theme=graywhite)
-
-
 #### Connect with me
 
 <a href="https://www.linkedin.com/in/sksoumik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%40sksoumik-blue" alt="LinkedIn"></a>
