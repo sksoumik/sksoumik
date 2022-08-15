@@ -16,10 +16,10 @@ Cloud:
     - AWS (SageMaker, EC2, S3, Lambda)
 
 Back-End: 
-    - Django, Django REST Framework (DRF), Flask
+    - FastAPI, Django, Django REST Framework (DRF), Flask
    
 Front-End:
-    - React, Next.js, Bootstrap, HTML5, CSS3
+    - React, Bootstrap, HTML5
 
 Data processing & visualisation: 
     - Spark/PySpark, Pandas, OpenCV, Numpy, Matplotlib, Seaborn
