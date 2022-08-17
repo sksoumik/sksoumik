@@ -1,19 +1,20 @@
 
-:coffee:   **AI Engineer** @ Venturas Ltd. | Working on AI/ML, Automation, Cloud Infrastructure. </br>
+:coffee:   **AI Engineer** @ Venturas Ltd. | Working on AI/ML, Cloud Infrastructure. </br>
 :coffee:   Occasionally, I also work on Back-End and Front-End Engineering for my personal/pet projects. </br>
 
 #### Tech stack: 
 
 ```yaml
 Language: 
-    - Python, JavaScript, Java, Bash, SQL
+    - Python, JavaScript, Java, C++, Bash, SQL
 
 Machine Learning: 
-    - TensorFlow/Keras, PyTorch, Detectron2, Apache Spark/PySpark, XGBoost, scikit-learn
+    - TensorFlow/Keras, PyTorch, MLflow, Kubeflow, PySpark, XGBoost, scikit-learn, Detectron2
 
 Cloud: 
     - GCP (Compute Engine, Storage, BigQuery, App Engine, Cloud Functions) 
     - AWS (SageMaker, EC2, S3, Lambda)
+    - Azure (Databricks)
 
 Back-End: 
     - FastAPI, Django, Django REST Framework (DRF), Flask
@@ -27,9 +28,6 @@ Data processing & visualisation:
 Database/Warehouse: 
     - Postgresql, BigQuery, Firebase
 
-Automation: 
-    - Python, Bash, Linux
-
 Miscellaneous: 
     - Git, Docker, Linux, Multiprocessing, Ray, BeautifulSoup, Streamlit, WebRTC, Celery, Elasticsearch
 ```
@@ -37,10 +35,11 @@ Miscellaneous:
 
 #### Connect with me
 
-<a href="https://www.linkedin.com/in/sksoumik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%40sksoumik-blue" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/sadmanks" target="_blank"><img src="https://img.shields.io/badge/facebook-%40sadmanks-9cf" alt="Facebook"></a>
-<a href="https://sksoumik.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-sksoumik-success" alt="portfolio"></a>
-<a href="https://www.hackerrank.com/sadmanks" target="_blank"><img src="https://img.shields.io/badge/HackeRank-sadmanks-success" alt="HackerRank"></a>
-<a href="https://sksoumik.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-%40sksoumik-orange" alt="blogspot"></a>
-
-</br>
+```yaml
+LinkedIn:
+    https://www.linkedin.com/in/sksoumik
+Facebook:
+    https://www.facebook.com/sadmanks
+Twitter:
+    https://twitter.com/sksoumik
+```
