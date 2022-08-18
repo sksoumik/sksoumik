@@ -28,4 +28,5 @@ Miscellaneous:
     - Git, Docker, Kubernetes, Linux, Multiprocessing, BeautifulSoup, Streamlit, Elasticsearch
 ```
 #### Connect
+sadmanks@gmail.com | 
 [LinkedIn](https://www.linkedin.com/in/sksoumik) | [Facebook](https://www.facebook.com/sadmanks) | [Twitter](https://twitter.com/sksoumik)
