@@ -1,6 +1,13 @@
+#### What I do?
 
-:coffee:   **AI Engineer** @ Venturas Ltd. | Working on AI/ML, Cloud Infrastructure. </br>
-:coffee:   Occasionally, I also work on Back-End and Front-End Engineering for my personal/pet projects. </br>
+```yaml
+Professional Works:
+    AI/ML, MLOps, Cloud Engineering, ML/Data Pipeline, Web Crawling, Parallel Processing. 
+
+Occasional Works:
+    Back-End, Front-End(rarely)
+```
+
 
 #### Tech stack: 
 
@@ -36,6 +43,8 @@ Miscellaneous:
 #### Connect with me
 
 ```yaml
+Email:
+    sadmanks@gmail.com
 LinkedIn:
     https://www.linkedin.com/in/sksoumik
 Facebook:
