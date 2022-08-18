@@ -1,8 +1,9 @@
 #### What I do?
+I drink data with coffee. xD
 
 ```yaml
 Professional Works:
-    AI/ML, MLOps, Cloud Engineering, ML/Data Pipeline, Web Crawling. 
+    ML-Cloud-BackEnd Engineering (End-to-End ML system development on Cloud - GCP). 
 
 Occasional Works:
     Back-End, Front-End(rarely)
