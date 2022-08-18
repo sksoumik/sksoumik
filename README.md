@@ -1,16 +1,12 @@
 #### Work
-
 I drink data with coffee. xD
-
 ```yaml
 Professional Works:
     AI-ML-Cloud Engineering
 Occasional Works:
     Back-End, Front-End(rarely)
 ```
-
 #### Tools
-
 ```yaml
 Language: 
     - Python, JavaScript, Java, C++, Bash, SQL
@@ -32,12 +28,4 @@ Miscellaneous:
     - Git, Docker, Kubernetes, Linux, Multiprocessing, BeautifulSoup, Streamlit, Elasticsearch
 ```
 #### Connect
-
-```yaml
-LinkedIn:
-    https://www.linkedin.com/in/sksoumik
-Facebook:
-    https://www.facebook.com/sadmanks
-Twitter:
-    https://twitter.com/sksoumik
-```
+[LinkedIn](https://www.linkedin.com/in/sksoumik) | [Facebook](https://www.facebook.com/sadmanks) | [Twitter](https://twitter.com/sksoumik)
