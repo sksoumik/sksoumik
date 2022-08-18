@@ -1,4 +1,5 @@
-#### What I do?
+#### Work
+
 I drink data with coffee. xD
 
 ```yaml
@@ -8,7 +9,7 @@ Occasional Works:
     Back-End, Front-End(rarely)
 ```
 
-#### Tech stack: 
+#### Tools
 
 ```yaml
 Language: 
@@ -30,7 +31,7 @@ Database/Warehouse:
 Miscellaneous: 
     - Git, Docker, Kubernetes, Linux, Multiprocessing, BeautifulSoup, Streamlit, Elasticsearch
 ```
-#### Connect with me
+#### Connect
 
 ```yaml
 LinkedIn:
