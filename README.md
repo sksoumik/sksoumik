@@ -2,7 +2,7 @@
 
 ```yaml
 Professional Works:
-    AI/ML, MLOps, Cloud Engineering, ML/Data Pipeline, Web Crawling, Parallel Processing. 
+    AI/ML, MLOps, Cloud Engineering, ML/Data Pipeline, Web Crawling. 
 
 Occasional Works:
     Back-End, Front-End(rarely)
