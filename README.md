@@ -1,5 +1,5 @@
 #### Work
-I drink data with coffee. xD
+
 ```yaml
 Professional Works:
     AI-ML-Cloud Engineering
