@@ -4,7 +4,7 @@
 Professional Works:
     AI-ML-Cloud Engineering
 Occasional Works:
-    Back-End, Front-End(rarely)
+    Back-End
 ```
 #### Tools
 ```yaml
@@ -18,8 +18,6 @@ Cloud:
     - Azure (Databricks)
 Back-End: 
     - FastAPI, Django, Django REST Framework (DRF), Flask
-Front-End:
-    - React, Bootstrap, HTML5
 Data processing & visualisation: 
     - Spark/PySpark, Pandas, OpenCV, Numpy, Matplotlib, Seaborn
 Database/Warehouse: 
