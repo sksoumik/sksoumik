@@ -9,7 +9,7 @@ Occasional Works:
 #### Tools
 ```yaml
 Language: 
-    - Python, JavaScript, Java, C++, Bash, SQL
+    - Python, JavaScript, Java, Bash, SQL
 Machine Learning: 
     - TensorFlow/Keras, PyTorch, MLflow, Kubeflow, PySpark, XGBoost, scikit-learn, Detectron2
 Cloud: 
