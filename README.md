@@ -9,22 +9,22 @@ Occasional Works:
 #### Tools
 ```yaml
 Language: 
-    - Python, JavaScript, Java, Bash, SQL
+    - Python, Go, Java, C++, Bash, SQL
 Machine Learning: 
-    - TensorFlow/Keras, PyTorch, MLflow, Kubeflow, PySpark, XGBoost, scikit-learn, Detectron2
+    - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, MediaPipe, LIME, OpenCV
+MLOps:                              
+    - KubeFlow, MLflow, Streamlit
 Cloud: 
-    - GCP (Compute Engine, Storage, AI Platform, BigQuery, App Engine, Cloud Functions) 
+    - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, GKE, Cloud Run, App Engine) 
     - AWS (SageMaker, EC2, S3, Lambda)
     - Azure (Databricks)
 Back-End: 
-    - FastAPI, Django, Django REST Framework (DRF), Flask
+    - FastAPI, Django, Flask, Go, Elasticsearch, MySQL, PostgreSQL, Firebase, SQLite
 Data processing & visualisation: 
-    - Spark/PySpark, Pandas, OpenCV, Numpy, Matplotlib, Seaborn
-Database/Warehouse: 
-    - Postgresql, BigQuery, Firebase
+    - Apache Spark (PySpark), Polars, Pandas, NumPy, NLTK, spaCy, Matplotlib, Seaborn
 Miscellaneous: 
-    - Git, Docker, Kubernetes, Linux, Multiprocessing, BeautifulSoup, Streamlit, Elasticsearch
+    -  Docker, Kubernetes, Git, GitHub Actions, Linux, HTML5, Scrapy, Beautifulsoup, PyScript 
 ```
 #### Connect
 sadmanks@gmail.com | 
-[LinkedIn](https://www.linkedin.com/in/sksoumik) | [Facebook](https://www.facebook.com/sadmanks) | [Twitter](https://twitter.com/sksoumik)
+[LinkedIn](https://www.linkedin.com/in/sksoumik) | [Twitter](https://twitter.com/sksoumik)
