@@ -23,7 +23,7 @@ Back-End:
 Data processing & visualisation: 
     - Apache Spark (PySpark), Polars, Pandas, NumPy, NLTK, spaCy, Matplotlib, Seaborn
 Miscellaneous: 
-    - Docker, Git, GitHub Actions, Linux, Selenium, Beautifulsoup, HTML5, CSS3
+    - Docker, Git, GitHub Actions, Linux, Celery, Selenium, Beautifulsoup, HTML5, CSS3
 ```
 #### Connect
 sadmanks@gmail.com | 
