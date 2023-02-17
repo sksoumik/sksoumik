@@ -9,11 +9,11 @@ Occasional Works:
 #### Tools
 ```yaml
 Language: 
-    - Python, Go, Java, C++, Bash, SQL
+    - Python, C++, Java, JavaScript, SQL, Bash
 Machine Learning: 
     - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, MediaPipe, LIME, OpenCV
 MLOps:                              
-    - KubeFlow, MLflow, Streamlit
+    - Apache Airflow, MLflow, TFX, GCP Vertex AI, AWS SageMaker
 Cloud: 
     - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, GKE, Cloud Run, App Engine) 
     - AWS (SageMaker, EC2, S3, Lambda)
@@ -23,7 +23,7 @@ Back-End:
 Data processing & visualisation: 
     - Apache Spark (PySpark), Polars, Pandas, NumPy, NLTK, spaCy, Matplotlib, Seaborn
 Miscellaneous: 
-    -  Docker, Kubernetes, Git, GitHub Actions, Linux, HTML5, Scrapy, Beautifulsoup, PyScript 
+    - Docker, Git, GitHub Actions, Linux, Selenium, Beautifulsoup, HTML5, CSS3
 ```
 #### Connect
 sadmanks@gmail.com | 
