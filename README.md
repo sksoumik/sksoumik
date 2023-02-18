@@ -15,7 +15,7 @@ Machine Learning:
 MLOps:                              
     - Apache Airflow, MLflow, TFX, GCP Vertex AI, AWS SageMaker
 Cloud: 
-    - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, GKE, Cloud Run, App Engine) 
+    - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, Cloud Run, Cloud Functions, App Engine, Pub/Sub) 
     - AWS (SageMaker, EC2, S3, Lambda)
     - Azure (Databricks)
 Back-End: 
