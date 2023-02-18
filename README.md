@@ -19,7 +19,7 @@ Cloud:
     - AWS (SageMaker, EC2, S3, Lambda)
     - Azure (Databricks)
 Back-End: 
-    - FastAPI, Django, Flask, Go, Elasticsearch, MySQL, PostgreSQL, Firebase, SQLite
+    - FastAPI, Django, Flask, Elastic Stack, MySQL, SQLite, SQLAlchemy, Celery, Redis
 Data processing & visualisation: 
     - Apache Spark (PySpark), Polars, Pandas, NumPy, NLTK, spaCy, Matplotlib, Seaborn
 Miscellaneous: 
