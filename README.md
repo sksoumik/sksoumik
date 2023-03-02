@@ -14,14 +14,13 @@ Machine Learning:
     - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, HuggingFace
 MLOps:                              
     - Apache Airflow, MLflow, TFX, GCP Vertex AI, AWS SageMaker
+Data pre-processing & visualisation: 
+    - Apache Spark, Pandas, NumPy, Matplotlib, Seaborn
 Cloud: 
     - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, Cloud Run, Cloud Functions, App Engine, Pub/Sub) 
     - AWS (SageMaker, EC2, S3)
-    - Azure (Databricks)
 Back-End: 
     - Django, Flask, Elastic Stack, MySQL, SQLite, SQLAlchemy, Celery, Redis
-Data pre-processing & visualisation: 
-    - Apache Spark, Pandas, NumPy, Matplotlib, Seaborn
 Miscellaneous: 
     - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
