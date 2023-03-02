@@ -11,7 +11,7 @@ Occasional Works:
 Language: 
     - Python, C++, Java, JavaScript, SQL, Bash
 Machine Learning: 
-    - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, MediaPipe, LIME, OpenCV
+    - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, HuggingFace
 MLOps:                              
     - Apache Airflow, MLflow, TFX, GCP Vertex AI, AWS SageMaker
 Cloud: 
@@ -19,11 +19,11 @@ Cloud:
     - AWS (SageMaker, EC2, S3)
     - Azure (Databricks)
 Back-End: 
-    - FastAPI, Django, Flask, Elastic Stack, MySQL, SQLite, SQLAlchemy, Celery, Redis
-Data processing & visualisation: 
-    - Apache Spark (PySpark), Polars, Pandas, NumPy, NLTK, spaCy, Matplotlib, Seaborn
+    - Django, Flask, Elastic Stack, MySQL, SQLite, SQLAlchemy, Celery, Redis
+Data pre-processing & visualisation: 
+    - Apache Spark, Pandas, NumPy, Matplotlib, Seaborn
 Miscellaneous: 
-    - Docker, Git, GitHub Actions, Linux, Celery, Selenium, Beautifulsoup, HTML5, CSS3
+    - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
 #### Connect
 sadmanks@gmail.com | 
