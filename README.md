@@ -26,6 +26,6 @@ Miscellaneous:
     - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60%" />
 </div>
