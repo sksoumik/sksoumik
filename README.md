@@ -25,6 +25,8 @@ Back-End:
 Miscellaneous: 
     - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
+<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="adam-pw" /></p>
+
 #### Email
 sadmanks@gmail.com 
 
@@ -35,7 +37,3 @@ sadmanks@gmail.com
       alt="sksoumik" height="22" width="20" /></a>
   <a href = 'https://twitter.com/sksoumik'> <img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
-</div>
