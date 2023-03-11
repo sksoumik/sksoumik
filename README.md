@@ -25,15 +25,7 @@ Back-End:
 Miscellaneous: 
     - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
-<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="adam-pw" /></p>
 
-#### Email
-sadmanks@gmail.com 
-
-#### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sksoumik/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="sksoumik" height="22" width="20" /></a>
-  <a href = 'https://twitter.com/sksoumik'> <img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60%" />
+</div>
