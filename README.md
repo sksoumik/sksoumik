@@ -36,4 +36,6 @@ sadmanks@gmail.com
   <a href = 'https://twitter.com/sksoumik'> <img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </p>
 
-![code man gif link](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+</div>
