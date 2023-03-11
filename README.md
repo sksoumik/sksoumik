@@ -6,6 +6,7 @@ Professional Works:
 Occasional Works:
     Back-End
 ```
+ 
 #### Tools
 ```yaml
 Language: 
@@ -27,3 +28,5 @@ Miscellaneous:
 #### Connect
 sadmanks@gmail.com | 
 [LinkedIn](https://www.linkedin.com/in/sksoumik) | [Twitter](https://twitter.com/sksoumik)
+
+![code man gif link](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
