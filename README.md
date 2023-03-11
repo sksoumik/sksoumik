@@ -27,5 +27,5 @@ Miscellaneous:
 ```
 
 <div align="left">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
