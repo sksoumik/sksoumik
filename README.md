@@ -25,8 +25,15 @@ Back-End:
 Miscellaneous: 
     - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
 ```
-#### Connect
-sadmanks@gmail.com | 
-[LinkedIn](https://www.linkedin.com/in/sksoumik) | [Twitter](https://twitter.com/sksoumik)
+#### Email
+sadmanks@gmail.com 
+
+#### Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sksoumik/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="sksoumik" height="22" width="20" /></a>
+  <a href = 'https://twitter.com/sksoumik'> <img width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+</p>
 
 ![code man gif link](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
