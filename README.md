@@ -1,31 +1,51 @@
-#### Work
-
+#### Current Activities:
 ```yaml
-Professional Works:
-    AI-ML-Cloud Engineering
-Occasional Works:
-    Back-End
+    - Data Science
+    - Machine Learning (NLP/Computer Vision)
+    - Solution Architecture
+    - Data Analytics 
+    - Cloud Computing 
+    - Backend Engineering 
+    - MLOps and DevOps
+    - Big Data
+    - Distributed Systems
+    - Time Series Analysis
+    - ETL
+    - Technical Content Creation (Blogs & Vlogs) 
 ```
- 
-#### Tools
+#### Other Interests (Possible Future Pursuits):
 ```yaml
-Language: 
-    - Python, C++, Java, JavaScript, SQL, Bash
-Machine Learning: 
-    - TensorFlow (Keras), PyTorch, Scikit-learn, XGBoost, HuggingFace
+    - Reinforcement Learning
+    - Robotics
+    - Human Psychology
+    - Macroeconomics
+```
+#### The Tools I Use Most
+```yaml
+Programming Languages: 
+    - Python, JavaScript, Java, C++, SQL, Bash
+Machine Learning & Deep Learning: 
+    - TensorFlow, Keras, PyTorch, Spark MLlib, Scikit-learn, XGBoost, HuggingFace, txtai
 MLOps:                              
-    - Apache Airflow, MLflow, TFX, GCP Vertex AI, AWS SageMaker
-Data pre-processing & visualisation: 
-    - Apache Spark, Pandas, NumPy, Matplotlib, Seaborn
+    - Apache Airflow, TFX, MLflow, Streamlit, Vertex AI, AWS SageMaker
+Data Wrangling: 
+    - Pandas, Apache Spark, OpenCV, NumPy, NLTK
+Data Visualization: 
+    - Matplotlib, Seaborn, Power BI
 Cloud: 
-    - GCP (Vertex AI, Compute Engine, BigQuery, Cloud Storage, Cloud Run, Cloud Functions, App Engine, Pub/Sub) 
+    - GCP (Compute Engine, BigQuery, Cloud Run, Cloud Storage, Cloud SQL, Vertex AI, VPC Network) 
     - AWS (SageMaker, EC2, S3)
-Back-End: 
-    - Django, Flask, Elastic Stack, MySQL, SQLite, SQLAlchemy, Celery, Redis
+Back-End Engineering: 
+    - Flask, Django, FastAPI, Elasticsearch, MySQL, PostgreSQL, SQLAlchemy, Celery, Redis
 Miscellaneous: 
-    - Docker, Git, Linux, Selenium, Beautifulsoup, HTML5
+    - Docker, Git, Linux, Selenium, BeautifulSoup, GitHub Actions
+Non-Engineering Tools:
+    - MS Excel, Google Sheets, PowerPoint, Audacity, Kdenlive, Adobe Photoshop & Illustrator, Markdown, LaTeX
+Project Management:
+    - JIRA, GitHub, Notion, Trello, Slack
 ```
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
+ -->
