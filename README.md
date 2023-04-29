@@ -1,7 +1,6 @@
 #### Current Activities:
 ```yaml
-    - Data Science
-    - Machine Learning (NLP/Computer Vision)
+    - Data Science, Machine Learning and Artificial Intelligence
     - Solution Architecture
     - Data Analytics 
     - Cloud Computing 
