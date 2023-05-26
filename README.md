@@ -22,9 +22,9 @@
 #### The Tools I Use Most
 ```yaml
 Programming Languages: 
-    - Python, JavaScript, Java, C++, SQL, Bash
+    - Python, JavaScript, Java, SQL, Bash
 Machine Learning & Deep Learning: 
-    - TensorFlow, Keras, PyTorch, Spark MLlib, Scikit-learn, XGBoost, HuggingFace, txtai
+    - TensorFlow, Keras, PyTorch, Spark MLlib, Scikit-learn, XGBoost, HuggingFace, Txtai
 MLOps:                              
     - Apache Airflow, TFX, MLflow, Streamlit, Vertex AI, AWS SageMaker
 Data Wrangling: 
