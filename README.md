@@ -7,17 +7,13 @@
     - Backend Engineering 
     - MLOps and DevOps
     - Big Data
-    - Distributed Systems
     - Time Series Analysis
     - ETL
-    - Technical Content Creation (Blogs & Vlogs) 
 ```
 #### Other Interests (Possible Future Pursuits):
 ```yaml
     - Reinforcement Learning
     - Robotics
-    - Human Psychology
-    - Macroeconomics
 ```
 #### The Tools I Use Most
 ```yaml
@@ -38,8 +34,6 @@ Back-End Engineering:
     - Flask, Django, FastAPI, Elasticsearch, MySQL, PostgreSQL, SQLAlchemy, Celery, Redis
 Miscellaneous: 
     - Docker, Git, Linux, Selenium, BeautifulSoup, GitHub Actions
-Non-Engineering Tools:
-    - MS Excel, Google Sheets, PowerPoint, Audacity, Kdenlive, Adobe Photoshop & Illustrator, Markdown, LaTeX
 Project Management:
     - JIRA, GitHub, Notion, Trello, Slack
 ```
