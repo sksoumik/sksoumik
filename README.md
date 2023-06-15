@@ -1,11 +1,11 @@
 #### Current Activities:
 ```yaml
     - Data Science, Machine Learning and Artificial Intelligence
-    - Solution Architecture
+    - AI/ML Solution Architecture
     - Data Analytics 
     - Cloud Computing 
     - Backend Engineering 
-    - MLOps and DevOps
+    - MLOps
     - Big Data
     - Time Series Analysis
     - ETL
