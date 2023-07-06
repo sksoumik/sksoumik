@@ -18,9 +18,9 @@
 #### The Tools I Use Most
 ```yaml
 Programming Languages: 
-    - Python, JavaScript, Java, SQL, Bash
+    - Python, C++, Java, SQL
 Machine Learning & Deep Learning: 
-    - TensorFlow, Keras, PyTorch, Spark MLlib, Scikit-learn, XGBoost, HuggingFace, Txtai
+    - TensorFlow, Keras, PyTorch, Apache Spark, Scikit-learn, XGBoost, HuggingFace, Txtai
 MLOps:                              
     - Apache Airflow, TFX, MLflow, Streamlit, Vertex AI, AWS SageMaker
 Data Wrangling: 
@@ -33,7 +33,7 @@ Cloud:
 Back-End Engineering: 
     - Flask, Django, FastAPI, Elasticsearch, MySQL, PostgreSQL, SQLAlchemy, Celery, Redis
 Miscellaneous: 
-    - Docker, Git, Linux, Selenium, BeautifulSoup, GitHub Actions
+    - Docker, Git, Linux, Selenium, BeautifulSoup, GitHub Actions, Shell Scripting 
 Project Management:
     - JIRA, GitHub, Notion, Trello, Slack
 ```
