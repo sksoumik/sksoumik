@@ -10,11 +10,6 @@
     - Time Series Analysis
     - ETL
 ```
-#### Other Interests (Possible Future Pursuits):
-```yaml
-    - Reinforcement Learning
-    - Robotics
-```
 #### The Tools I Use Most
 ```yaml
 Programming Languages: 
