@@ -6,8 +6,6 @@
     - Cloud Computing 
     - Backend Engineering 
     - MLOps
-    - Big Data
-    - Time Series Analysis
     - ETL
 ```
 #### The Tools I Use Most
@@ -15,7 +13,7 @@
 Programming Languages: 
     - Python, SQL, JavaScript, Java, Go (Golang)
 Machine Learning & Deep Learning: 
-    - TensorFlow, Keras, PyTorch, Apache Spark, Scikit-learn, XGBoost, HuggingFace, Txtai
+    - TensorFlow/Keras, PyTorch, Apache Spark, Scikit-learn, XGBoost, Transformers/HuggingFace, Txtai
 MLOps:                              
     - Apache Airflow, TFX, MLflow, Streamlit, Vertex AI, AWS SageMaker
 Data Wrangling: 
