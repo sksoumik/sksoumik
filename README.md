@@ -24,11 +24,9 @@ Cloud:
     - GCP (Compute Engine, BigQuery, Cloud Run, Cloud Storage, Cloud SQL, Vertex AI, VPC Network) 
     - AWS (SageMaker, EC2, S3)
 Back-End Engineering: 
-    - Flask, Django, FastAPI, Elasticsearch, MySQL, PostgreSQL, SQLAlchemy, Celery, Redis
+    - Django, FastAPI, Elasticsearch, MySQL, PostgreSQL, SQLAlchemy, Celery, Redis
 Miscellaneous: 
     - Docker, Git, Linux, Scrapy, Selenium, GitHub Actions, Shell Scripting 
-Project Management:
-    - JIRA, GitHub, Notion, Trello, Slack
 ```
 
 <!-- <div align="left">
