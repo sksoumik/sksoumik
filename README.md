@@ -3,7 +3,6 @@
     - Generative AI
     - MLOps
     - Cloud Computing 
-  
 ```
 #### The Tools I Use Most
 ```yaml
