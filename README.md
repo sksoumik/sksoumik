@@ -1,8 +1,8 @@
 #### Current Activities:
 ```yaml
-    - Generative AI
-    - MLOps
-    - Cloud Computing 
+Generative AI
+MLOps
+Cloud Computing 
 ```
 #### The Tools I Use Most
 ```yaml
