@@ -15,7 +15,7 @@ MLOps:
 Data Wrangling: 
     - Pandas, Apache Spark, OpenCV, NumPy, NLTK
 Data Visualization: 
-    - Matplotlib, Seaborn, Power BI
+    - Matplotlib, Seaborn
 Cloud: 
     - GCP (Compute Engine, BigQuery, Cloud Run, Cloud Storage, Cloud SQL, Vertex AI, VPC Network) 
     - AWS (SageMaker, EC2, S3)
