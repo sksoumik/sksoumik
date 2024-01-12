@@ -1,12 +1,9 @@
 #### Current Activities:
 ```yaml
-    - Data Science, Machine Learning and Artificial Intelligence
-    - AI/ML Solution Architecture
-    - Data Analytics 
-    - Cloud Computing 
-    - Backend Engineering 
+    - Generative AI
     - MLOps
-    - ETL
+    - Cloud Computing 
+  
 ```
 #### The Tools I Use Most
 ```yaml
