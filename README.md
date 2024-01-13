@@ -7,7 +7,7 @@ Cloud Computing
 #### The Tools I Use Most
 ```yaml
 Programming Languages: 
-    - Python, SQL, JavaScript, Go/Golang
+    - Python, C++, JavaScript, SQL 
 Machine Learning & Deep Learning: 
     - TensorFlow/Keras, PyTorch, Apache Spark, Scikit-learn, XGBoost, Transformers/HuggingFace
 MLOps:                              
