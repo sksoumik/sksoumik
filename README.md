@@ -1,7 +1,7 @@
 <a href="https://github.com/sksoumik">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksoumik/sksoumik/master/dark_mode.svg">
-    <img alt="Sadman Kabir Soumik — GitHub profile card" src="https://raw.githubusercontent.com/sksoumik/sksoumik/master/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksoumik/sksoumik/master/dark_mode.svg?v=2">
+    <img alt="Sadman Kabir Soumik — GitHub profile card" src="https://raw.githubusercontent.com/sksoumik/sksoumik/master/light_mode.svg?v=2">
   </picture>
 </a>
 
