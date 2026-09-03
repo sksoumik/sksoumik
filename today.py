@@ -322,11 +322,13 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     tree = etree.parse(filename)
     root = tree.getroot()
-    justify_format(root, 'commit_data', commit_data, 22)
-    justify_format(root, 'star_data', star_data, 14)
-    justify_format(root, 'repo_data', repo_data, 6)
-    justify_format(root, 'contrib_data', contrib_data)
-    justify_format(root, 'follower_data', follower_data, 10)
+    # Stats are a single column; each value is right-justified to the card edge.
+    # Field width = 62 - len(label) keeps the value ending at the same right column.
+    justify_format(root, 'repo_data', repo_data, 57)        # label "Repos"
+    justify_format(root, 'contrib_data', contrib_data, 51)  # label "Contributed"
+    justify_format(root, 'star_data', star_data, 57)        # label "Stars"
+    justify_format(root, 'commit_data', commit_data, 55)    # label "Commits"
+    justify_format(root, 'follower_data', follower_data, 53)# label "Followers"
     justify_format(root, 'loc_data', loc_data[2], 9)
     justify_format(root, 'loc_add', loc_data[0])
     justify_format(root, 'loc_del', loc_data[1], 7)
