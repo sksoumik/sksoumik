@@ -324,6 +324,29 @@ def force_close_file(data, cache_comment):
     print('There was an error while writing to the cache file. The file,', filename, 'has had the partial data saved and closed.')
 
 
+def rest_stars():
+    """
+    Count total stars across all repositories I own, using the REST API.
+    The GraphQL edges return null repository nodes for fine-grained tokens,
+    so we read stargazers_count over REST instead, which those tokens allow.
+    """
+    total, page = 0, 1
+    while True:
+        r = requests.get('https://api.github.com/user/repos',
+                         headers=HEADERS,
+                         params={'affiliation': 'owner', 'per_page': 100, 'page': page})
+        if r.status_code != 200:
+            break
+        arr = r.json()
+        if not arr:
+            break
+        total += sum(repo.get('stargazers_count', 0) for repo in arr)
+        if len(arr) < 100:
+            break
+        page += 1
+    return total
+
+
 def stars_counter(data):
     """
     Count total stars in repositories owned by me
@@ -477,7 +500,7 @@ if __name__ == '__main__':
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
     commit_data, commit_time = perf_counter(commit_counter, 7)
-    star_data, star_time = perf_counter(graph_repos_stars, 'stars', ['OWNER'])
+    star_data, star_time = perf_counter(rest_stars)
     repo_data, repo_time = perf_counter(graph_repos_stars, 'repos', ['OWNER'])
     contrib_data, contrib_time = perf_counter(graph_repos_stars, 'repos', ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'])
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
