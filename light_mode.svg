@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+.line { opacity: 0; animation: fadein 0.5s ease forwards; }
+@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+#ascii { opacity: 0; animation: fadein 1.2s ease forwards; }
+#cursor { animation: blink 1.05s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text id="ascii" x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30"> -~++*dooo*+***++*==+***+++==*dWMMkk</tspan>
+<tspan x="15" y="50">:-=*dddoooooo*+===++*+**=====*okMMMk</tspan>
+<tspan x="15" y="70">d*~:++**do****odkkMkd*+=++=+**+*MMMd</tspan>
+<tspan x="15" y="90">o+=*:=dkdodkW#%@@%%#WMd+===**+=*MMko</tspan>
+<tspan x="15" y="110">ookko**ddodW####WWWWWWWd+~===++*MMko</tspan>
+<tspan x="15" y="130">MMMkMko**oMk+=~~~~:--oMdd=~~==*kkdod</tspan>
+<tspan x="15" y="150">dkkk*ooo=o#+==~:::~~::kWM===~=okdo*o</tspan>
+<tspan x="15" y="170">=*od~=*==+o==*o*+***=~~k+~=~~+oko+*o</tspan>
+<tspan x="15" y="190">=okkoo~=*:=.-~~:-:::. :=.=***o*oo*+*</tspan>
+<tspan x="15" y="210">+okMko:*o==~=+=+=~==-.~:~+oooooodoo+</tspan>
+<tspan x="15" y="230">++okdd*ddo+==::==--:::*+++o*ooddddd*</tspan>
+<tspan x="15" y="250">+==oddddddko+*+++=++~+k++++***dkddd*</tspan>
+<tspan x="15" y="270">+==*dodM%@@o-=*odo=:.o@W*~~+==oo**++</tspan>
+<tspan x="15" y="290">*++odkW%%%o---:~~:-..:W%Moo+=+oo*~**</tspan>
+<tspan x="15" y="310">=oM######%Wo+=~~~~=+oM%WMkkkd*++~.+*</tspan>
+<tspan x="15" y="330">WW#%Mk#W#%###########%#MkkkkMMko=:*o</tspan>
+<tspan x="15" y="350">#W#%#WWWW%#####W##W##WWWWWMMMWWMMkdd</tspan>
+<tspan x="15" y="370">#W%%WWWWW%#WWWWWWWW#MWkM%@#%%#WWMMkk</tspan>
+<tspan x="15" y="390">W###WWWWW%#WWWWWWW#WMMM###WW##W#WWMM</tspan>
+<tspan x="15" y="410">W####WWWW##W###W##WMMW%%W#WM###%##WM</tspan>
+<tspan x="15" y="430">##%##MdWW%########MMW%%#W##WWW%%%##W</tspan>
+<tspan x="15" y="450">##%W#WWW#%#######WMW%%#WW#%#WW@%%##W</tspan>
+<tspan x="15" y="470">###W#WWW#%######%kM%@%##%%%%##@%%##W</tspan>
+<tspan x="15" y="490">###WWWWW#@#####%#M#@%#WW%%%%#%@%%%##</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan class="line" style="animation-delay:0.20s" x="390" y="30">sksoumik@github<tspan id="cursor">_</tspan> ———————————————————————————————————————————</tspan>
+<tspan class="line" style="animation-delay:0.25s" x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan class="line" style="animation-delay:0.30s" x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">9 years, 4 months, 20 days</tspan></tspan>
+<tspan class="line" style="animation-delay:0.35s" x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Optimizely</tspan></tspan>
+<tspan class="line" style="animation-delay:0.40s" x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Machine Learning Engineer</tspan></tspan>
+<tspan class="line" style="animation-delay:0.45s" x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">VSCode, Xcode, Cursor</tspan></tspan>
+<tspan class="line" style="animation-delay:0.50s" x="390" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan class="line" style="animation-delay:0.55s" x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, TypeScript, Swift, C++</tspan></tspan>
+<tspan class="line" style="animation-delay:0.60s" x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PyTorch, Transformers, LangChain</tspan></tspan>
+<tspan class="line" style="animation-delay:0.65s" x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Bangla, English</tspan></tspan>
+<tspan class="line" style="animation-delay:0.70s" x="390" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan class="line" style="animation-delay:0.75s" x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LLMs, RAG, Evals, Recommenders</tspan></tspan>
+<tspan class="line" style="animation-delay:0.80s" x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Apps</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Native iOS, Web</tspan></tspan>
+<tspan class="line" style="animation-delay:0.85s" x="390" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan class="line" style="animation-delay:0.90s" x="390" y="310">- Contact —————————————————————————————————————————————————</tspan>
+<tspan class="line" style="animation-delay:0.95s" x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">sadmanks@gmail.com</tspan></tspan>
+<tspan class="line" style="animation-delay:1.00s" x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">sksoumik</tspan></tspan>
+<tspan class="line" style="animation-delay:1.05s" x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">sksoumik</tspan></tspan>
+<tspan class="line" style="animation-delay:1.10s" x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">sksoumik.github.io</tspan></tspan>
+<tspan class="line" style="animation-delay:1.15s" x="390" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan class="line" style="animation-delay:1.20s" x="390" y="430">- GitHub Stats ————————————————————————————————————————————</tspan>
+<tspan class="line" style="animation-delay:1.25s" x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">82</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">4</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">80</tspan></tspan>
+<tspan class="line" style="animation-delay:1.30s" x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,000</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">116</tspan></tspan>
+<tspan class="line" style="animation-delay:1.35s" x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan class="line" style="animation-delay:1.40s" x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Made with</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Python + GitHub Actions</tspan></tspan>
+</text>
+</svg>
